@@ -9,3 +9,5 @@
 4/ Run Jupyter notebook by this command "jupyter notebook".
 
 5/ Run download.ipynb and transform.ipynb.
+
+Note: when running download.ipynb and transform.ipynb, remember to change your Access Key and Secret Key.
