@@ -6,6 +6,6 @@
 
 3/ Install jupyter notebook by command "pip install jupyter notebook".
 
-4/ Run Jupyter notebook by this command "jupyter nottebook".
+4/ Run Jupyter notebook by this command "jupyter notebook".
 
 5/ Run download.ipynb and transform.ipynb.
